@@ -14,7 +14,16 @@
   "links": [
     {
       "source": "1956",
-      "target": "3845"
+      "target": "3845",
+      "value":5,
+      "type":"missense"
     },
+    {
+      "source": "1956",
+      "target": "3845",
+      "value":3,
+      "type":"stop"
+    },
+
   ]
 }
